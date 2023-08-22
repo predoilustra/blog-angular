@@ -1,4 +1,5 @@
-# AngularBlog
+# Santander Bootcamp 2023 - Fullstack Java+Angular
+## Blog Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
